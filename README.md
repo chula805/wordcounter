@@ -41,7 +41,7 @@ Welcome to the Word Counter project! This responsive web application is designed
 
 ## 🌐 Live Demo
 
-Try out the Word Counter application with our live demo [here](#).
+Try out the Word Counter application with our live demo - https://chula805.github.io/wordcounter/
 
 ## 📬 Feedback
 
